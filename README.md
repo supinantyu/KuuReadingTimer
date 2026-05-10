@@ -1,0 +1,2 @@
+# KuuReadingTimer
+クーと一緒に読書時間と感想を記録するSwiftUIアプリ
